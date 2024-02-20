@@ -64,7 +64,3 @@ if (introduccion && nudo && desenlace) {
     var historiaCompleta = introduccion + nudo + desenlace;
     alert("Historia de Superhéroes:\n" + historiaCompleta);
 }
-
-        typedvalueElement.className = 'error';
-    }
-});
